@@ -13,6 +13,8 @@ spring:
   mail:
     host: localhost
     port: 25
+    username: 
+    password: 
 encryption:
   salt:
     rounds: 5
